@@ -4,4 +4,4 @@ NPM     : 2106636376
 
 Kelas   : A
 
-Hobi    : Tidur
+Hobi    : Bengong
